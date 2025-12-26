@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Izzattillo
 
-<!--
-**Izzattillo-dev/Izzattillo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python Backend Developer (Junior)
 
-Here are some ideas to get you started:
+I am a motivated backend developer who builds real-world projects using Python.
+My main focus is writing clean, understandable code and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+- Python
+- FastAPI
+- Django (basic)
+- PostgreSQL
+- Git & GitHub
+- Telegram Bots (aiogram)
+
+---
+
+## 📌 Featured Projects
+🔹 Task Manager API (FastAPI)  
+🔹 Telegram Bot (Real use-case)  
+🔹 Password Manager (Python)
+
+---
+
+## 📈 What I'm working on
+- Building REST APIs
+- Improving backend skills
+- Writing clean and scalable code
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/Izzattillo-dev
