@@ -1,82 +1,64 @@
-<!-- GitHub Profile README -->
+## 👋 Hi, I'm Izzattillo
 
-<h1 align="center">Hi 👋, I'm Izzattillo</h1>
-<h3 align="center">Junior Python Developer | Security‑Focused Learner</h3>
+🚀 Junior Python Developer | Security-focused learner
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue" />
-  <img src="https://img.shields.io/badge/Focus-Security-critical" />
-  <img src="https://img.shields.io/badge/Type-CLI%20Tools-informational" />
-  <img src="https://img.shields.io/badge/Platform-Windows-success" />
-</p>
-
----
-
-## 🚀 About Me
-
-I’m a **Junior Python Developer** learning software engineering by building **real‑world projects**.
-
-My main focus areas:
-
-* 🔐 Secure application design
-* 🧠 Clean & maintainable architecture
-* 🖥️ Practical CLI tools
-* 📦 Real project packaging & releases
-
-I believe strong fundamentals and security‑first thinking matter more than frameworks.
+I build real-world Python projects with a strong focus on:
+- 🔐 security best practices
+- 🧱 clean & modular architecture
+- 🖥️ practical CLI tools
 
 ---
 
 ## 🔐 Featured Project
 
-### **Password Manager Pro**
+### Password Manager Pro
 
-A real‑world **CLI password manager** built with Python and security best practices.
+A real-world **CLI-based Password Manager** built with Python, focused on security and clean design.
 
 **Key highlights:**
+- Master password authentication
+- PBKDF2 + salt-based key derivation
+- Encrypted local password storage
+- Full CRUD operations
+- Windows standalone `.exe` build
 
-* 🔑 Master password authentication
-* 🧂 PBKDF2 + salt‑based key derivation
-* 🔒 Encrypted password storage (Fernet / AES)
-* 📦 100% local storage (no cloud)
-* 🖥️ Windows standalone `.exe` via PyInstaller
-
-👉 **Repository:** [https://github.com/Izzattillo-dev/password-manager-pro](https://github.com/Izzattillo-dev/password-manager-pro)
+👉 **Project Repository:**  
+https://github.com/Izzattillo-dev/password-manager-pro
 
 ---
 
 ## 🧠 Tech Stack
 
-* **Language:** Python 3.11
-* **Security:** cryptography, PBKDF2, hashing
-* **Tools:** Git, GitHub, PyInstaller
-* **Data:** JSON (local encrypted storage)
+- Python 3
+- cryptography (Fernet)
+- hashlib / PBKDF2
+- JSON
+- Git & GitHub
 
 ---
 
 ## 📌 Currently Learning
 
-* Secure system design principles
-* Encryption & key management
-* Python project structuring
-* Git & GitHub best practices
+- Secure application design
+- Encryption & key derivation
+- Python project structuring
+- Software security fundamentals
 
 ---
 
-## 🛡️ Development Philosophy
+## 🎯 Goals
 
-* Security is not optional
-* Simple > complex
-* Understand before using libraries
-* Build → break → improve
+- Build strong security-focused Python projects
+- Improve software architecture skills
+- Grow into a professional backend / Python developer
 
 ---
 
 ## 📫 Contact
 
-* GitHub: [https://github.com/Izzattillo-dev](https://github.com/Izzattillo-dev)
+- GitHub: https://github.com/Izzattillo-dev
 
 ---
 
-⭐ *Always learning. Always building. Always improving.*
+⭐ Always learning. Always building.
 
