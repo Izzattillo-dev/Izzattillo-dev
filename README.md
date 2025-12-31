@@ -1,6 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Focus](https://img.shields.io/badge/Focus-Security-critical)
+![Type](https://img.shields.io/badge/Projects-CLI-informational)
+
 ## 👋 Hi, I'm Izzattillo
 
-🚀 Junior Python Developer | Security-focused learner  
+🚀 **Junior Python Developer | Security-focused learner**
 
 I build **real-world Python projects** with a strong focus on:
 - clean architecture
@@ -9,19 +13,18 @@ I build **real-world Python projects** with a strong focus on:
 
 ---
 
-## 🔐 Featured Project
+## 🔐 Featured Project — Password Manager Pro
 
-### Password Manager Pro
+A **secure CLI-based password manager** built with Python.
 
-A secure CLI-based password manager built with Python.
+**Key features:**
+- 🔐 Master password authentication  
+- 🧂 PBKDF2 + salt-based encryption  
+- 🔒 Encrypted local storage  
+- ♻️ Full CRUD operations  
+- 🖥️ Windows standalone `.exe`
 
-- Master password authentication  
-- PBKDF2 + salt-based encryption  
-- Encrypted local storage  
-- Full CRUD operations  
-- Windows standalone `.exe`
-
-👉 👉 **View Project:**  
+👉 **View Project:**  
 https://github.com/Izzattillo-dev/password-manager-pro
 
 ---
@@ -47,10 +50,10 @@ https://github.com/Izzattillo-dev/password-manager-pro
 
 ## 📫 Contact
 
-GitHub: https://github.com/Izzattillo-dev
+🔗 GitHub: https://github.com/Izzattillo-dev  
 
 ---
 
-⭐ Always improving. Always building.
+⭐ *Always improving. Always building.*
 
 
