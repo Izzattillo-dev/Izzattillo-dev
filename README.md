@@ -48,6 +48,15 @@ https://github.com/Izzattillo-dev/password-manager-pro
 
 ---
 
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izzattillo-dev&show_icons=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=Izzattillo-dev)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Izzattillo-dev&layout=compact)
+
+
+---
+
 ## 📫 Contact
 
 🔗 GitHub: https://github.com/Izzattillo-dev  
