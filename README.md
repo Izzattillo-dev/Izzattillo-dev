@@ -1,68 +1,70 @@
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Focus](https://img.shields.io/badge/Focus-Security-critical)
-![Type](https://img.shields.io/badge/Projects-CLI-informational)
-
 ## 👋 Hi, I'm Izzattillo
 
-🚀 **Junior Python Developer | Security-focused learner**
-
-I build **real-world Python projects** with a strong focus on:
-- clean architecture
-- secure coding practices
-- practical CLI tools
+🚀 Junior Python Developer | Security-focused learner  
+I build **real-world Python projects** with a strong focus on **security**, **clean architecture**, and **practical CLI tools**.
 
 ---
 
-## 🔐 Featured Project — Password Manager Pro
+### 🧑‍💻 About Me
+
+- 🔐 Interested in secure software design  
+- 🧠 Learning by building real projects, not tutorials  
+- 🖥️ Focused on Python, CLI tools, and encryption basics  
+- 📈 Improving every day through Git & GitHub practice  
+
+---
+
+## 🔐 Featured Project
+
+### 🔑 Password Manager Pro
 
 A **secure CLI-based password manager** built with Python.
 
 **Key features:**
-- 🔐 Master password authentication  
-- 🧂 PBKDF2 + salt-based encryption  
-- 🔒 Encrypted local storage  
-- ♻️ Full CRUD operations  
-- 🖥️ Windows standalone `.exe`
+- Master password authentication  
+- PBKDF2 + salt-based key derivation  
+- Encrypted local password storage (Fernet / AES)  
+- CRUD operations (add, get, update, delete)  
+- Windows standalone `.exe` (PyInstaller)
 
-👉 **View Project:**  
+👉 **Repository:**  
 https://github.com/Izzattillo-dev/password-manager-pro
 
 ---
 
 ## 🧠 Tech Stack
 
-- Python  
-- cryptography (Fernet)  
-- hashlib / PBKDF2  
-- JSON  
-- Git & GitHub  
+- **Language:** Python  
+- **Security:** cryptography (Fernet), PBKDF2  
+- **Storage:** JSON (encrypted)  
+- **Tools:** Git, GitHub, PyInstaller  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izzattillo-dev&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Izzattillo-dev&layout=compact&theme=dark)
 
 ---
 
 ## 📌 Currently Learning
 
-- Secure application design  
-- Encryption & key derivation  
+- Secure application architecture  
+- Encryption & key derivation fundamentals  
 - Python project structuring  
-- Git best practices  
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izzattillo-dev&show_icons=true&theme=default)
-![GitHub Streak](https://streak-stats.demolab.com?user=Izzattillo-dev)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Izzattillo-dev&layout=compact)
-
+- Git & GitHub best practices  
 
 ---
 
 ## 📫 Contact
 
-🔗 GitHub: https://github.com/Izzattillo-dev  
+- GitHub: https://github.com/Izzattillo-dev  
 
 ---
 
-⭐ *Always improving. Always building.*
+⭐ Always learning. Always building.  
+🔒 Security-first mindset.
+
 
 
